@@ -30,6 +30,7 @@ image {
 body {
   margin: 0;
   padding-top: 20px;
+  background-color: #afeeee;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
